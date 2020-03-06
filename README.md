@@ -5,5 +5,3 @@ Team:
 Firat Tamur
 
 Kutay Eroğlu
-
-change
