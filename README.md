@@ -9,3 +9,13 @@ Team:
 Firat Tamur
 
 Kutay Eroğlu
+
+Dataset:
+Hotel Booking Demand Datasets
+
+Source:
+
+https://www.sciencedirect.com/science/article/pii/S2352340918315191
+
+https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
